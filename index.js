@@ -1,4 +1,3 @@
-
 //Dice One
 var numberOne =Math.floor(1 + Math.random()*6);
 var randomDiceImage = "dice" + numberOne + ".png";
