@@ -6,11 +6,11 @@
     font-family: 'Source Sans Pro', sans-serif;
     font-size:4rem;
     color:#A3E4DB;
-    
-    
+    display:flex;
 }
 
 .version {
+    margin-top:2rem;
     font-size:2rem;
     
 }
@@ -20,15 +20,22 @@
     color:#A3E4DB;
     text-align:center;
     
-
 }
 
 .dice {
     font-family: 'Source Sans Pro', sans-serif;
     font-size:3rem;
     color:#A3E4DB;
+    display:inline-block;
+    margin-left:8rem;
+    margin-right:8rem;
 }
 
-.inline {
-    display:inline-flex;
+
+
+.creds{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#A3E4DB;
+    font-size:1.7rem;
+    margin-top:24%;
 }
