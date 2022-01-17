@@ -14,7 +14,6 @@
     font-size:2rem;
     
 }
-
 .refresh {
     font-family: 'Source Sans Pro', sans-serif;
     font-size:4rem;
@@ -24,20 +23,12 @@
 
 }
 
-
-.player1 {
+.dice {
     font-family: 'Source Sans Pro', sans-serif;
     font-size:3rem;
     color:#A3E4DB;
-    margin-right:20%;  
-    margin-left:20%; 
 }
-
-.player2 {
-    margin-left:30%;
-}
-
 
 .inline {
-    display:inline;
+    display:inline-flex;
 }
