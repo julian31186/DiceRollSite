@@ -1,0 +1,43 @@
+.body {
+    background-color:#262833;
+}
+
+.main {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:4rem;
+    color:#A3E4DB;
+    
+    
+}
+
+.version {
+    font-size:2rem;
+    
+}
+
+.refresh {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:4rem;
+    color:#A3E4DB;
+    text-align:center;
+    
+
+}
+
+
+.player1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:3rem;
+    color:#A3E4DB;
+    margin-right:20%;  
+    margin-left:20%; 
+}
+
+.player2 {
+    margin-left:30%;
+}
+
+
+.inline {
+    display:inline;
+}
